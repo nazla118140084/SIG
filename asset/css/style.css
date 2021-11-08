@@ -1,0 +1,40 @@
+body {
+	background:#fff;
+	font-family:Arial;
+	overflow: hidden;
+}
+
+a {
+	color:rgb(34, 34, 34);
+	text-decoration: none;
+}
+a:hover {
+	color:rgb(100, 87, 221);
+}
+
+#desc {
+	float: left;
+	margin-bottom: 1em;
+	position: relative;
+	white-space:nowrap;
+	font-size:1em;
+}
+#map {
+	width:100%;
+	height:100vh;
+	margin: 0 auto;
+	border-radius: 5px;
+}
+.googlemap{
+	margin-top: 15px;
+}
+
+.img-side {
+	width: 700px;
+}
+
+.title-index {
+	font-size: 50px;
+	font-weight: 800;
+	margin-top: 13rem;
+}
